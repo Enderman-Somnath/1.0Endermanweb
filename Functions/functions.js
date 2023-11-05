@@ -1,16 +1,16 @@
 // homeWeb() classicChatWeb() youtubeWeb() PopUp() donationWeb() closeWindow()
 function homeWeb(){
-    window.location="/index.html"
+    window.location="/1.0Endermanweb/index.html"
 }
 function classicChatWeb(){
-    window.location="/ClassicChat/ClassicChatLogin.html"
+    window.location="/1.0Endermanweb/ClassicChat/ClassicChatLogin.html"
 }
 function youtubeWeb(){
-    window.location="/Youtube/youtube.html"
+    window.location="/1.0Endermanweb/Youtube/youtube.html"
 }
 function PopUp(url){
     popupWindow = window.open(url,'popUpWindow','height=550,width=550,');
 }
 function donationWeb(){
-    popupWindow = window.open('/Donation/Donation.html','popUpWindow','height=800,width=1000,');
+    popupWindow = window.open('/1.0Endermanweb/Donation/Donation.html','popUpWindow','height=800,width=1000,');
 }
