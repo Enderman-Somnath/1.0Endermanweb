@@ -1,4 +1,3 @@
-// homeWeb() classicChatWeb() youtubeWeb() PopUp() donationWeb() closeWindow()
 function homeWeb(){
     window.location="/1.0Endermanweb/index.html"
 }
